@@ -4,7 +4,7 @@
 
   Welcome to the new Online/Offline Budget Tracker! This budget app makes it simple. A user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they will populate the total when brought back online. This tracker is a Progressive Web Application (PWA) using IndexDB. We hope you enjoy the app for your daily needs!
 
-  ![image description](./images/placeholder.png)
+  ![image description](./images/budgetapp.png)
 
   ## Table of Contents
   
